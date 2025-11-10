@@ -45,7 +45,7 @@ function HomePage() {
         <div className="widget">👤 Profile</div>
       </div>
 
-      {user ? <p> {user.email}</p> : <p>You are not logged in.</p>}
+      
 
       <div className="footer">
         <p>&copy; 2025 MyStore. All rights reserved.</p>
