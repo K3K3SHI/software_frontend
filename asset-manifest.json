@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/K3K3SHI/software_frontend/static/css/main.52b8cf48.css",
+    "main.js": "/K3K3SHI/software_frontend/static/js/main.18b56308.js",
+    "static/media/ChatGPT Image Sep 23, 2025, 06_45_13 PM.png": "/K3K3SHI/software_frontend/static/media/ChatGPT Image Sep 23, 2025, 06_45_13 PM.63bd2c48bfcab5d92364.png",
+    "static/media/ChatGPT Image Sep 23, 2025, 02_14_43 AM.png": "/K3K3SHI/software_frontend/static/media/ChatGPT Image Sep 23, 2025, 02_14_43 AM.600d9aec7b0ecc393258.png",
+    "static/media/buy.jpg": "/K3K3SHI/software_frontend/static/media/buy.2d57516d7e7abc4d0d73.jpg",
+    "index.html": "/K3K3SHI/software_frontend/index.html",
+    "main.52b8cf48.css.map": "/K3K3SHI/software_frontend/static/css/main.52b8cf48.css.map",
+    "main.18b56308.js.map": "/K3K3SHI/software_frontend/static/js/main.18b56308.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b8cf48.css",
+    "static/js/main.18b56308.js"
+  ]
+}
